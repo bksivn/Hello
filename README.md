@@ -13,31 +13,37 @@
 [![License](https://img.shields.io/static/v1?label=License&message=CC%20BY%204.0&color=lightgray&style=flat-square "License: CC BY 4.0")](http://creativecommons.org/licenses/by/4.0/)
 [![License](https://img.shields.io/static/v1?label=License&message=CC%20BY%204.0&color=lightgray&style=flat-square "License: CC BY 4.0")](http://creativecommons.org/licenses/by/4.0/)
 
-# Information and network technologies
-## fgddfgdfg
-### gdfgdfg
+# Information and network technologies (2R1S)
+## 
+### Winter semester (2R3S)
+
+#### Subjects
+
+- [Fundamentals of Electronics](#!)
+- [Informatics](#!)
+- [Python in Network Applications](#!)
+- [Computer Networks](#!)
+- [3D printing](#!)
+- [English](#!)
+- [Process Analysis](#!)
+- [Technical Components of PC](#!)
+
+### Summer semester (2R4S)
+
 #### gfdgdgf
 ##### gdfsgfgsdfg
 ###### gfdsgdsgfsgf
 
 
 
-- [Fundamentals of Electronics](https://shields.io/)
-- [Informatics](https://shields.io/)
+
 
 
 
 Winter | Summer
 ------------ | -------------
-[Fundamentals of Electronics](#!) |
-[Informatics](#!) |
-[Python in Network Applications](#!) |
-[Computer Networks](#!) |
-[3D printing](#!) |
-[English](#!) |
-[Process Analysis](#!) |
-[Technical Components of PC](#!) |
+
 
 <p>This work is licensed under
-  <a href="http://creativecommons.org/licenses/by/4.0/"target="_blank">CC BY 4.0</a> .
+  <a href="http://creativecommons.org/licenses/by/4.0/"target="_blank">CC BY 4.0</a>.
 </p>
