@@ -18,7 +18,7 @@
 
 Winter | Summer
 ------------ | -------------
-[Fundamentals of Electronics]() | Content from cell 2
+[Fundamentals of Electronics](#!) | Content from cell 2
 Content in the first column | Content in the second column
 
 
