@@ -18,13 +18,13 @@
 
 **Subjects:**
 - [Basics of Electronics](#!) (ZEL)
-- [Process Analysis (MAT)](#!)
-- [Informatics (INF)](#!)
-- [Technical Components of PC (TPP)](#!)
-- [3D Printing (3DT)](#!)
-- [Computer Networks (PCS)](#!)
-- [Python in Network Applications (PSA)](#!)
-- [English Language (ANJ)](#!)
+- [Process Analysis](#!) (MAT)
+- [Informatics](#!) (INF)
+- [Technical Components of PC](#!) (TPP)
+- [3D Printing](#!) (3DT)
+- [Computer Networks](#!) (PCS)
+- [Python in Network Applications](#!) (PSA)
+- [English Language](#!) (ANJ)
 
 
 ### Summer semester (2R4S)
