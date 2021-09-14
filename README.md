@@ -30,12 +30,12 @@
 ### Summer semester (2R4S)
 
 **Subjects:**
-- [Digital Electronics (DEL)](#!)
-- [Embedded Systems (VSS)](#!)
-- [Algorithms and Data Structures (AUS)](#!)
-- [Computer Networks (PCS)](#!)
-- [Basics of Wireless Networks (ZBS)](#!)
-- [English Language (ANJ)](#!)
+- [Digital Electronics](./2__Summer_Semester/1__DEL_Digital_Electronics) (DEL)
+- [Embedded Systems](./2__Summer_Semester/2__VSS_Embedded_Systems) (VSS)
+- [Algorithms and Data Structures](./2__Summer_Semester/3__AUS_Algorithms_and_Data_Structures) (AUS)
+- [Computer Networks](./2__Summer_Semester/4__PCS_Computer_Networks) (PCS)
+- [Basics of Wireless Networks](./2__Summer_Semester/5__ZBS_Basics_of_Wireless_Networks) (ZBS)
+- [English Language](./2__Summer_Semester/6__ANJ_English_Language) (ANJ)
 
 <p>This work is licensed under
   <a href="http://creativecommons.org/licenses/by/4.0/"target="_blank">CC BY 4.0</a>.
