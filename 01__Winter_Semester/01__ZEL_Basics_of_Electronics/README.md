@@ -31,17 +31,9 @@
 
 ### Teachers
 
-### List of weeks
+- Lectures: **. . .**
+- Labs: **. . .**
 
-- [Week 1](./01__Week_1)
-- [Week 2](./02__Week_2)
-- [Week 3](./03__Week_3)
-- [Week 4](./04__Week_4)
-- [Week 5](./05__Week_5)
-- [Week 6](./06__Week_6)
-- [Week 7](./07__Week_7)
-- [Week 8](./08__Week_8)
-- [Week 9](./09__Week_9)
-- [Week 10](./10__Week_10)
-- [Week 11](./11__Week_11)
-- [Week 12](./12__Week_12)
+<br/>
+
+All files in this repository are licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/).
