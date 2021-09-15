@@ -6,7 +6,7 @@
 [![ECTS Credits](https://img.shields.io/static/v1?label=ECTS%20Credits&message=5.0&color=ffb81c&labelColor=002d72&style=flat-square)](#!)
 [![Lectures/Exercises/Labs](https://img.shields.io/static/v1?label=Lectures/Exercises/Labs&message=2/0/2&color=ffb81c&labelColor=002d72&style=flat-square)](#!)
 
-### List of weeks:
+### Table of weeks:
 
 <table>
   <tbody>
@@ -29,6 +29,7 @@
   </tbody>
 </table>
 
+### Teachers:
 
 ### List of weeks:
 
