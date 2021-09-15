@@ -1,6 +1,5 @@
-- [Back](../)&nbsp;&nbsp;`(27. 09. – 03. 10. 2021)`
+[&#8630; Back](../) &nbsp;&#8226;&nbsp; **Basics of Electronics (ZEL)**
 
-# Basics of Electronics (ZEL)
 ## Week 1 (27. 09. – 03. 10. 2021)
 
 
