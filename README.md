@@ -14,9 +14,8 @@
 # Information and network technologies
 
 
-### Winter semester (2R3S)
+### Winter semester subjects
 
-**Subjects:**
 - [Basics of Electronics](./01__Winter_Semester/01__ZEL_Basics_of_Electronics) (ZEL)
 - [Process Analysis](#!) (MAT)
 - [Informatics](./01__Winter_Semester/03__INF_Informatics) (INF)
@@ -27,9 +26,8 @@
 - [English Language](#!) (ANJ)
 
 
-### Summer semester (2R4S)
+### Summer semester subjects
 
-**Subjects:**
 - [Digital Electronics](./2__Summer_Semester/1__DEL_Digital_Electronics) (DEL)
 - [Embedded Systems](./2__Summer_Semester/2__VSS_Embedded_Systems) (VSS)
 - [Algorithms and Data Structures](./2__Summer_Semester/3__AUS_Algorithms_and_Data_Structures) (AUS)
