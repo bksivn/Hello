@@ -1,4 +1,4 @@
-[&#8630; Back](bksivn/repo/) &nbsp;&#8226;&nbsp; **Winter Semester (2R3S)**
+[&#8630; Back](/tree/main/) &nbsp;&#8226;&nbsp; **Winter Semester (2R3S)**
 
 
 # Basics of Electronics (ZEL)
