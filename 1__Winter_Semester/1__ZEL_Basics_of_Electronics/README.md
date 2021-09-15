@@ -2,17 +2,8 @@
 
 # Basics of Electronics (ZEL)
 
-### Week 01
-`(27.09. – 03.10.2021)`
-
-- ID: 
-
-
-~~this~~
-
-
 **Subjects:**
-- [Week 01](./01__Week_1)&nbsp;&nbsp;`(27. 09. – 03. 10. 2021)`
+- [Week 1](./01__Week_1)
 - [Week 02](./02__Week_02)&nbsp;&nbsp;`(04. 10. – 10. 10. 2021)`
 - [Week 03](./03__Week_02)&nbsp;&nbsp;`(11. 10. – 17. 10. 2021)`
 - [Week 04](./04__Week_02)&nbsp;&nbsp;`(18. 10. – 24. 10. 2021)`
