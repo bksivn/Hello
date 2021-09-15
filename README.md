@@ -37,6 +37,6 @@
 - [Basics of Wireless Networks](./2__Summer_Semester/5__ZBS_Basics_of_Wireless_Networks) (ZBS)
 - [English Language](./2__Summer_Semester/6__ANJ_English_Language) (ANJ)
 
-<p>This work is licensed under
-  <a href="http://creativecommons.org/licenses/by/4.0/"target="_blank">CC BY 4.0</a>.
-</p>
+<br/>
+
+All files in this repository are licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/).
