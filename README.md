@@ -19,7 +19,7 @@
 **Subjects:**
 - [Basics of Electronics](./01__Winter_Semester/01__ZEL_Basics_of_Electronics) (ZEL)
 - [Process Analysis](#!) (MAT)
-- [Informatics](#!) (INF)
+- [Informatics](./01__Winter_Semester/03__INF_Informatics) (INF)
 - [Technical Components of PC](#!) (TPP)
 - [3D Printing](#!) (3DT)
 - [Computer Networks](#!) (PCS)
