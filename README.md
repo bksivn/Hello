@@ -17,7 +17,7 @@
 ### Winter semester (2R3S)
 
 **Subjects:**
-- [Basics of Electronics](#!) (ZEL)
+- [Basics of Electronics](./1__Winter_Semester/1__ZEL_Basics_of_Electronics) (ZEL)
 - [Process Analysis](#!) (MAT)
 - [Informatics](#!) (INF)
 - [Technical Components of PC](#!) (TPP)
