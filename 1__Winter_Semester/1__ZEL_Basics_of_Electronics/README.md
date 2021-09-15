@@ -1,4 +1,4 @@
-[&#8630; Back](../) &nbsp;&#8226;&nbsp; **Winter Semester**
+[&#8630; Back](../) &nbsp;&#8226;&nbsp; **Winter Semester (2R3S)**
 
 # Basics of Electronics (ZEL)
 
@@ -12,7 +12,7 @@
 
 
 **Subjects:**
-- [Week 01](./01__Week_01)&nbsp;&nbsp;`(27. 09. – 03. 10. 2021)`
+- [Week 01](./01__Week_1)&nbsp;&nbsp;`(27. 09. – 03. 10. 2021)`
 - [Week 02](./02__Week_02)&nbsp;&nbsp;`(04. 10. – 10. 10. 2021)`
 - [Week 03](./03__Week_02)&nbsp;&nbsp;`(11. 10. – 17. 10. 2021)`
 - [Week 04](./04__Week_02)&nbsp;&nbsp;`(18. 10. – 24. 10. 2021)`
